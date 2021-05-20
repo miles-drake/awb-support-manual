@@ -1,0 +1,97 @@
+# Standard Workbench
+
+## Resources
+
+- [Project Wiki](https://www.wiki.ed.ac.uk/display/SAW/User+Guide+-+SPACe+Analytical+Workbench) hosted on the University of Edinburgh's Atlassian wiki.
+
+## Contact
+
+Our point of contact for the standard Workbench (and Serv-U) is the SPACe support desk. Contact them by email at space-support@epcc.ed.ac.uk.
+
+## Escalating with Freshdesk
+
+Where possible, when communicating with the SPACe support desk, you should do so through Freshdesk.
+
+1. Send an email to our Freshdesk account at support@analyticalworkbench.freshdesk.com ;
+2. This will automatically create an appropriate ticket;
+3. Open the ticket, then click "Forward";
+4. In the "To:" field, enter space-support@epcc.ed.ac.uk ;
+5. Click the "horizontal hamburger" (...) to expand the ticket;
+6. Trim the contents of the ticket, ensuring that only relevant information is available.
+
+SPACe has advised that they do not want to be sent large or irrelevant tickets. Please be aware that SPACe can **not** view our Freshdesk portal, so **all** information relevant to the ticket should be included in the forwarded message.
+
+## Standard Requests
+
+The following forms can also be found in the Outlook mailbox, under the folder "Forms > Standard".
+
+SPACe has requested that we send these forms as plain text, rather than tables, and they are presented as such.
+
+### New User Accounts
+
+To set up a new user account, use the following template:
+
+```
+Name: 
+Email: 
+VM: awb-general01
+Project reference: awb01
+Start date: 
+End date: NA
+User type: Standard user
+```
+
+**Agreed timeframe:** 3 working days.
+
+_"Project reference"_ is be the name of the shared workspace that the individual has access to. _"awb01"_ is the name of the generic project reference, for any user who is not part of a team or does not need a shared workspace.
+
+If it is unclear whether the user needs a shared workspace, use _"awb01"_ as the project reference.
+
+At time of writing, users can not be attached to more than one project reference. If a user needs to work on multiple projects, with multiple shared workspaces, they will need more than one account. Changing a user's project reference requires deleting (or abandoning) their old account, and making a new one.
+
+_"End date"_ is used to specify if an account should be automatically deleted on a certain date. Unless this is strictly needed, leave it blank or explicitly not required, such as by entering _NA_, or similar.
+
+_"User type"_ is used to request users with non-standard permissions. For example, users with root access. With the exception of Analytical Workbench and SPACe staff, this should always be _"Standard user"_.
+
+### New Project
+
+Before users can be created under a project (shared workspace), that project must first exist. Before requesting that new users are created for a project that you are uncertain about the existence of, first confirm that the project exists.
+
+At present, we do not have a log of the existing projects. To confirm that a project exists:
+
+1. Log in to your account on the Analytical Workbench;
+2. Check the folder of project names _"/md3_01/"_. If the requested project name does not exist, then...
+3. Request that a new project is created.
+
+To set up a new project (shared workspace) on the Analytical Workbench, use the following template:
+
+```
+Project name: 
+VM which needs access to the project: awb-general01
+```
+
+### Password Reset
+
+To request that a user's passwords are reset, use the following template:
+
+```
+Username:
+Guacamole / VM / Both: Both
+```
+
+**Agreed timeframe:** 24 hours.
+
+SPACe helpdesk will email the user to inform them that their passwords have been reset.
+
+### Restore Files or Folders
+
+To request that a user's files or folders are restored from a backup, use the following template:
+
+```
+File path: 
+Date of backup: 
+```
+
+Backups of the /data/ mount are done nightly. The date of backup can be up to two weeks prior to the request being carried out.
+
+The file path should be given as the absolute path to the file or directory, as given in File Explorer. For example: _/beegfs10/absolute_path/my_folder/_.

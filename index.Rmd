@@ -1,0 +1,25 @@
+--- 
+title: "Analytical Workbench Support Desk Manual"
+author:
+  - name: "Miles Drake"
+    email: "miles.drake@gov.scot"
+  - name: "Analytical Workbench Support"
+    email: "analytical.workbench@gov.scot"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+---
+
+# About this Document
+
+This is a simple HTML manual to facilitate the running of the Analytical Workbench support desk. It contains:
+
+- The agreed workflow for agents responding to enquiries;
+- Standard responses for common enquiries;
+- Advice on managing the shared Outlook account.
+
+This document has been produced as a website for faster navigation, and quicker referencing. It hopefully encourages better work practices than navigating a massive PDF file.
+
+Though this document does not contain any sensitive information, it should not be shared with anyone outside of the Analytical Workbench team.
+
+This is a "living document", and is in active development. It currently only exists as a very rough skeleton, missing a lot of key details, and will be fleshed out over time.

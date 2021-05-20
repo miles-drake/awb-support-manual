@@ -1,0 +1,28 @@
+# Flowchart
+
+Use the following simple decision tree to decide whether you should assign the message to yourself, and respond.
+
+1. Does the ticket come from a government employee?  
+  It may instead have come from a third-party, quango, arms-reach organisation, or similar.  
+  If the message has **not** come from a government employee, forward the message to Gyda.  
+  If **in doubt** forward the message to Michael.
+
+2. Does the ticket pertain to one of the following?
+  If it does **not**, forward the message to Michael.
+
+- Help with software on the Workbench;
+- Help with or information on the Workbench technologies (Guacamole, the VMs, etc);
+- Requests for the user guide;
+- A standard request, such as:
+  - New user accounts, or
+  - Existing account help.
+
+3. Check for an established solution in the appropriate product's documentation.  
+  For the standard Workbench, check the [project Wiki](https://www.wiki.ed.ac.uk/display/SAW/User+Guide+-+SPACe+Analytical+Workbench).
+  For the Confidential Workbench, check the [user guide on eRDM](https://erdm.scotland.gov.uk:8443/documents/A31541481/details).
+
+4. Is there no established solution?  
+  Investigate and solve the ticket, to the best of your ability.  
+  **Miles's note:** Often, a user's technical support enquiry can be solved -- either entirely or partially -- by searching Stack Overflow. That's the terrible secret of running a helpdesk.
+
+5. If the ticket must be escalated, then escalate it according to the agreed process for that product.

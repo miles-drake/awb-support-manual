@@ -1,0 +1,34 @@
+# Confidential Workbench
+
+## Point of Contact
+
+Our point of Confidential Workbench is the eDRIS National Safe Haven support desk. Contact them by email at phs.nshtech@phs.scot.
+
+Unlike the standard Workbench, there is no complex escalation procedure for tickets forwarded to eDRIS. **Do not** use the Freshdesk service for tickets related to the Confidential Workbench.
+
+## Standard Requests
+
+Standard requests for the Confidential Workbench can be found in the Analytical Workbench Support mailbox, under "Forms > Confidential".
+
+All relevant information is kept in the messages available in that folder. Because of the nature of the support processes, this document is -- for the time being -- just a pointer to examine that email folder.
+
+You are advised to bookmark the URLs given in these form messages for easier access.
+
+## Important
+
+**Do not** forward the contents of the "Add or remove user" form message to anyone.
+
+## Download or Upload Data
+
+**Agreed timeframe:** 24 hours.
+
+If a user has requested a data upload or download, and enquires about it, please advise that we have an expected 24 hour turnaround time in both directions. If the user has waited more than 24 hours, escalate the ticket.
+
+### Escalating Data Download / Upload Requests
+
+1. Escalate as normal. Before sending the email...
+2. In the email title field, add descriptors to make it clear that it is related to the Confidential Workbench, and a priority matter.  
+   Example: \[SG Confidential WB\] \[High Priority\] Email Title
+
+3. Tag the email as a high priority item. On the Quick Access Toolbar, under the "Tags" section, click "High Importance".
+4. Send.

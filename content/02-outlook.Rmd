@@ -1,0 +1,25 @@
+# Outlook Mailbox
+
+Outlook is not dedicated helpdesk software. The following advice is intended to help make the Analytical Workbench shared mailbox more manageable for everyone who works with it.
+
+## Rules of Thumb
+
+- Every email (or "ticket") should be assigned to someone on the Analytical Workbench team (or "agent"). See "Categorisation", below.
+- Tickets that require responses should have a "🚩 to do" flag placed.
+- Tickets with a "🚩 to do" flag should be marked as "✔️ complete" when responded to.
+- Tickets that do not require a response should not have a 🚩 flag or ✔️ check mark placed.
+- Tickets that are complete and over two weeks old should be moved to the "Inbox > Done" folder. See "Quick actions", below.
+
+### Why do all of this organisation?
+
+Archiving and sorting into sub-folders improves the response time and search speed of the Microsoft Exchange server.
+
+Categorisation and flagging makes it easier to search for specific responses or conversations.
+
+## Categorisation
+
+To do.
+
+## Quick Actions
+
+To do.

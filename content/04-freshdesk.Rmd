@@ -1,0 +1,5 @@
+# Freshdesk
+
+## Logging in to Freshdesk
+
+To log into our Freshdesk portal as an agent, click the _"Are you an agent? Login here."_ button. On some browsers, using the standard login dialogue prevents you from being successfully forwarded to the agent interface.
